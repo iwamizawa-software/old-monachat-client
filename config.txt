@@ -1,0 +1,10 @@
+{
+  "astralURL": "wss://monachat.xyz/",
+  "astralPath": "/monachatchat/",
+  "monaPort" : 9095,
+  "max": {"name": 23, "stat": 23, "cmt": 100},
+  "monaArea": {"x": [30, 690], "y": [240, 320]},
+  "astralArea": {"x": [0, 940], "y": [170, 350]},
+  "scalable": 1,
+  "debug": 1
+}
